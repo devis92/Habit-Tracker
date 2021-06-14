@@ -1,7 +1,7 @@
 import requests
 import datetime as dt
 USERNAME = "iqboladahamjonov"
-TOKEN = "iqboladahamjonovtoken"
+TOKEN = "YOURTOKEN_HERE"
 GRAPH_ID = "graph1"
 
 #Create a user account
